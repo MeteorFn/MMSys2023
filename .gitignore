@@ -1,0 +1,6 @@
+# ignore everything
+/*
+
+# only demo and .git ignore
+!.gitignore
+!demo
